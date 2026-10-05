@@ -1,11 +1,11 @@
 #include <stdio.h>
 
-char* load_mem(void)
+char *load_mem(void)
 {
     return "MEM_OK";
 }
 
-char* load_cpu(void)
+char *load_cpu(void)
 {
     return "CPU_OK";
 }
